@@ -1,0 +1,27 @@
+.title{
+  text-align: center;
+}
+.side-img{
+  float: right;
+  margin: 0 500px 10px 10px;
+}
+
+.front-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 10px solid black;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+  text-align: center;
+}
+
+.best{
+  color: #2E0854;
+  font-style: italic;
+  font-weight: bold;
+}
